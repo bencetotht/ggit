@@ -1,0 +1,2 @@
+# ggit
+Global Git shortcuts.
